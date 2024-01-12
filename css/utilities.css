@@ -46,7 +46,7 @@ a.icon-link:hover {
   text-decoration: underline;
 }
 
-.navbar-right {
+.navbar-left {
   margin-left: auto; /* This pushes the content to the right */
 }
 
