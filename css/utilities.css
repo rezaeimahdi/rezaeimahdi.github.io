@@ -39,7 +39,7 @@ a.icon-link:hover {
 
 .nav-title-link {
   color: black;
-  text-decoration: underline dotted;
+  text-decoration: none;
 }
 
 .nav-title-link:hover {
