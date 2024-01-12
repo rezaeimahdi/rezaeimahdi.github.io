@@ -47,7 +47,7 @@ a.icon-link:hover {
 }
 
 .navbar-left {
-  margin-right: auto; /* This pushes the content to the right */
+  margin-right: auto; /* --> This pushes the content to the right */
 }
 
 /* Small devices (portrait tablets and large phones, 800px and below) */
