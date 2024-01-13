@@ -21,10 +21,10 @@ body {
 /* Main Page Layout */
 
 #main-content {
-  margin:10px 225px 425px;
+  margin: 225px 425px;
   display: flex;
   flex-direction: column;
-  gap: 96px;
+  gap: 66px;
 }
 
 
